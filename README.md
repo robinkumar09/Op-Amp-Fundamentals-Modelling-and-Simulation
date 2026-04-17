@@ -1,1 +1,6 @@
 # Op-Amp-Fundamentals-Modelling-and-Simulation
+Thisdocument isareorganizedwrite-upoftheOp-Ampmodelingandsimulation
+exercise.UsingaVCVS-basedop-ampwith±1.8Vrailsanda60dBopen-loopgain,
+theworkreproducesalloriginalcalculations,figures,andtheoreticalresultswhile
+givingtheprosearefreshedpresentation.AnalysesincludeDCsweeps,ACfrequency
+response,andtransientrunsacrossmultipleclosed-looptopologies: open-loopcheck,unity buffer, inverting/non-inverting amplifiers, difference amplifier, and an integrator.
